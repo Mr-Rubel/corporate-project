@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="127" height="48" viewBox="0 0 127 48">
+  <g id="Logo" transform="translate(7 0.436)">
+    <path id="Path_20" data-name="Path 20" d="M22.5,0A22.5,22.5,0,1,1,0,22.5,22.5,22.5,0,0,1,22.5,0Z" transform="translate(-7 1.564)" fill="#dd2839"/>
+    <text id="ajed" transform="translate(31 36.564)" fill="#2d5991" font-size="40" font-family="FiraSans-Bold, Fira Sans" font-weight="700" letter-spacing="-0.002em"><tspan x="0" y="0">ajed</tspan></text>
+    <text id="M" transform="translate(-1 36.564)" fill="#fff" font-size="40" font-family="FiraSans-Bold, Fira Sans" font-weight="700" letter-spacing="-0.002em"><tspan x="0" y="0">M</tspan></text>
+    <text id="_." data-name="." transform="translate(110 36.564)" fill="#dd2839" font-size="40" font-family="FiraSans-Bold, Fira Sans" font-weight="700" letter-spacing="-0.002em"><tspan x="0" y="0">.</tspan></text>
+  </g>
+</svg>
